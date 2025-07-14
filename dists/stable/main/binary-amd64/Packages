@@ -1,0 +1,20 @@
+Package: encrypted-todo-app
+Version: 1.2.2
+Architecture: amd64
+Maintainer: Matthieu Richard <support@mrichard333.com>
+Installed-Size: 293107
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: pool/main/e/encrypted-taskmanager/Encrypted ToDo-1.2.2-amd64.deb
+Size: 80992790
+MD5sum: a59e3b7ccca47060adff6203d5dcec8e
+SHA1: 2980c9fa5e6d93d81b9dd32facd80fd337a0cfca
+SHA256: 73e4b0178aa62fe1166eacb3e0b98e50da024f6242c56209bc81d239780ea573
+Section: default
+Priority: optional
+Homepage: https://./
+Description: A secure, encrypted ToDo app
+  A secure, encrypted ToDo app built with React, Express, SQLite, and Electron. Provides end-to-end encryption, offline support, and cross-platform desktop functionality for managing tasks.
+License: MIT
+Vendor: Matthieu Richard <support@mrichard333.com>
+
