@@ -1,5 +1,3 @@
-  Encrypted ToDo App — Secure Task Manager body { background: #1b1b29; color: #f4f4f4; font-family: "Segoe UI", sans-serif; max-width: 800px; margin: 2rem auto; padding: 2rem; line-height: 1.6; } h1, h2, h3 { color: #ff7f60; } code, pre { background: #2a2a3d; padding: 0.5rem; border-radius: 5px; display: block; white-space: pre-wrap; color: #c4f1ff; } img { max-width: 100%; border-radius: 6px; margin: 1rem 0; } a { color: #79cfff; text-decoration: none; } a:hover { text-decoration: underline; } table { width: 100%; border-collapse: collapse; margin: 1rem 0; } th, td { padding: 8px; border: 1px solid #444; } th { background-color: #292940; }
-
 # 🔐 Encrypted ToDo App — Cross-Platform Secure Task Manager
 
 Welcome to the **Encrypted ToDo** app — your _privacy-first_, _offline_, and _cross-platform_ task manager. Built with **Electron**, **React**, **Express**, and **SQLite**, this app ensures that your data stays on your device and **encrypted** at all times.
