@@ -34,7 +34,7 @@ Go to the latest release here:
 You can now install Encrypted TaskManager via APT directly using our public repo:
 
 ```
-curl -fsSL https://mrichard333.github.io/Encrypted-TaskManager-repo/public.key | gpg --dearmor | sudo tee /usr/share/keyrings/encrypted-taskmanager.gpg > /dev/null
+curl -fsSL https://mrichard333.github.io/Encrypted-TaskManager/public.key | gpg --dearmor | sudo tee /usr/share/keyrings/encrypted-taskmanager.gpg > /dev/null
 
 echo "deb [signed-by=/usr/share/keyrings/encrypted-taskmanager.gpg] https://mrichard333.github.io/Encrypted-TaskManager-repo stable main" | sudo tee /etc/apt/sources.list.d/encrypted-taskmanager.list
 
