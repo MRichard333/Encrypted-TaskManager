@@ -39,7 +39,7 @@ curl -fsSL https://mrichard333.github.io/Encrypted-TaskManager/public.key | gpg 
 echo "deb [signed-by=/usr/share/keyrings/encrypted-taskmanager.gpg] https://mrichard333.github.io/Encrypted-TaskManager stable main" | sudo tee /etc/apt/sources.list.d/encrypted-taskmanager.list
 
 sudo apt update
-sudo apt install encrypted-todo
+sudo apt install encrypted-todo-app
 ```
 
 Or run the `.AppImage` directly:
